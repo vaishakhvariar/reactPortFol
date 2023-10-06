@@ -3,8 +3,8 @@ import './index.scss';
 import LogoV from '../../assets/images/logo-v1.png';
 // import LogoSub from '../../assets/images/logo_sub.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faBlog, faEnvelope, faHome, faUser } from '@fortawesome/free-solid-svg-icons';
-import { faBlogger, faGithub, faInstagram, faInstagramSquare, faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import { faEnvelope, faHome, faUser } from '@fortawesome/free-solid-svg-icons';
+import { faBlogger, faGithub, faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 
 const Sidebar = () => (
     <div className='nav-bar'>
